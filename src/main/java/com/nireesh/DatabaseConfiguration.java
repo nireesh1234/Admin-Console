@@ -1,3 +1,4 @@
+// Author
 package com.mkyong.config;
 
 import java.util.Properties;
