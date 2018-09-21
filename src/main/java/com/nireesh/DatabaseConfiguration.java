@@ -1,4 +1,4 @@
-// Author
+// Author NK
 package com.mkyong.config;
 
 import java.util.Properties;
